@@ -7,14 +7,20 @@ Arabic one page slide effect
 لمحة بسيطة على الكود و كيفية الاستعمال
 
 <ul id="nav">
+
+
      <li><a href="#home">الرئسية</a></li>
      <li><a href="#about">من نحن</a></li>
      <li><a href="#contact">اتصل بنا</a></li>
 </ul>
 
  <div class="container"> 
+ 
+ 
             <section id="page" class="row">
                 <div id="page-slider" class="col12">
+                
+                
                     <div id="home">
                         <div class="content">
                             <h1>الصفحة الرئسية</h1>
