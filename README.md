@@ -23,6 +23,8 @@ Arabic one page slide effect
                             </p>
                         </div>
                     </div>
+                    
+                    
                     <div id="about">
                         <div class="content">
                             <h1>صفحة من نحن</h1>
